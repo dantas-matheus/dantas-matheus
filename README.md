@@ -1,14 +1,21 @@
-<h1 align="center">🌀 Matheus Dantas (Mat)</h1>
-<p align="center">🎮 Unity Dev | ☕ Coffee Enthusiast | ✍️ Writing Arcanian: Paranoia</p>
+<h1 align="center">Matheus Dantas (Mat)</h1>
+<p align="center">
+Backend Developer • Unity Developer • Game Writer (Arcanian: Paranoia)
+</p>
 
----
+<p align="center">
+🇧🇷 Brazil • 17 years old
+</p>
 
-## 👤 About Me
-- 🧠 I'm 17 years old and from 🇧🇷 Brazil.  
-- 🧪 Exploring backend development and learning multiple languages.  
-- 🎧 Coffee, code, and creativity — my favorite trio.
+## About Me
 
----
+I'm Matheus Dantas, a developer from Brazil focused on backend development and game development using Unity.  
+Currently building projects to improve my skills in cybersecurity, backend systems, and software architecture.
+
+- Backend development studies (APIs, automation, scripts)
+- Unity development (C#)
+- Writing my indie game project: **Arcanian: Paranoia**
+- Interested in cybersecurity tools and network analysis
 
 ## 💻 Stack & Languages
 
@@ -50,5 +57,24 @@ Press ENTER to exit console.
 ```
  
 
-<p align="left"> <a href="https://www.instagram.com/matt_dantas_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> </a> <a href="https://steamcommunity.com/id/escolhendo" target="_blank"> <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=Steam&logoColor=white" /> </a> <a href="https://www.reddit.com/user/escolhendo/" target="_blank"> <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" /> </a> <a href="https://github.com/Escolhendo" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontAlignY=40" /> </p> ```
+## Contact
+
+<p align="left">
+<a href="https://github.com/Escolhendo" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/matt_dts_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://steamcommunity.com/id/escolhendo" target="_blank">
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
+
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontAlignY=40" />
+</p>
