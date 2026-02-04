@@ -1,12 +1,10 @@
 <h1 align="center">🌀 Matheus Dantas (Mat)</h1>
-<p align="center">🎮 Unreal Engine Dev | ☕ Coffee Enthusiast | ✍️ Writing Arcanian: Into the Void</p>
+<p align="center">🎮 Unity Dev | ☕ Coffee Enthusiast | ✍️ Writing Arcanian: Paranoia</p>
 
 ---
 
 ## 👤 About Me
-- 🧠 I'm 16 years old and from 🇧🇷 Brazil.  
-- 🖥️ Indie developer working with **Unreal Engine**.  
-- ✍️ Creator of the game **Arcanian: Into the Void**.  
+- 🧠 I'm 17 years old and from 🇧🇷 Brazil.  
 - 🧪 Exploring backend development and learning multiple languages.  
 - 🎧 Coffee, code, and creativity — my favorite trio.
 
