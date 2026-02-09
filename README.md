@@ -20,9 +20,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-111111?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -37,18 +36,15 @@ Possuo noções práticas de segurança da informação e pentest (Red Team), ap
 
 ---
 
-## Projetos em destaque
+## Projetos em Andamento
 
 - **PortInspector** — Scanner de portas/serviços com classificação de risco (CVSS)  
-  `Java / Python • CLI`
-- **[Nome do projeto 2]** — descreva em 1 linha o problema que resolve  
-  `Stack`
 
-> Repositórios fixados no perfil com README técnico e instruções de uso.
+> Repositórios serão fixados no perfil com README técnico e instruções de uso.
 
 ---
 
 ## Contato
 
 - GitHub: https://github.com/dantas-matheus  
-- LinkedIn: https://www.linkedin.com/in/flavio-soares-junior/
+- LinkedIn: https://www.linkedin.com/in/matheus-dantas-santos/
